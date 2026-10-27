@@ -1,0 +1,6 @@
+.metadata/
+bin/
+target/
+node_modules/
+.next/
+.DS_Store
