@@ -8,7 +8,7 @@
 First iteration of a book catalog for a cloud services course: a Spring Boot API and a Next.js front end, each in its own container.
 
 > This is an early prototype. The finished, deployable version is
-> [Projeto01-Biblioteca-AWS](https://github.com/EnzoFerroni/Projeto01-Biblioteca-AWS).
+> [cloud-book-catalog-aws](https://github.com/EnzoFerroni/cloud-book-catalog-aws).
 
 ## Table of Contents
 
@@ -37,8 +37,8 @@ the books as cards.
 Requirements: JDK 17+, Maven and Node.js 18+.
 
 ```bash
-git clone https://github.com/EnzoFerroni/Projeto01-Nuvemv1.git
-cd Projeto01-Nuvemv1
+git clone https://github.com/EnzoFerroni/cloud-book-catalog-v1.git
+cd cloud-book-catalog-v1
 
 cd "back/Projeto Final/minhaBiblioteca"
 ./mvnw spring-boot:run
